@@ -1,0 +1,180 @@
+﻿item_id,product_name,brand,category,release_year,grade,original_price,market_price,ai_predicted_price,confidence_score_pct,status
+ITEM-001,G Pro X Superlight,Logitech,Gaming Gear,2023,B,16284,8000.0,7724,89.8,Sold
+ITEM-002,Galaxy Watch 5,Samsung,Smartwatch,2022,A,7433,3800.0,3679,90.1,Sold
+ITEM-003,Galaxy S22,Samsung,Smartwatch,2021,B,23942,8400.0,8097,91.4,Sold
+ITEM-004,Radeon RX 6700 XT,AMD,GPU/PC Parts,2024,B,16394,9200.0,9531,95.8,Sold
+ITEM-005,Legion 5 Pro,Lenovo,Laptop,2024,B,48001,26900.0,26374,89.1,Available
+ITEM-006,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2021,C,45994,11500.0,11970,91.0,Available
+ITEM-007,TUF Gaming F15,Asus,Laptop,2022,B,45757,19200.0,18300,97.7,Sold
+ITEM-008,TUF Gaming F15,Asus,Laptop,2022,B,16534,6900.0,6616,90.3,Sold
+ITEM-009,Galaxy S22,Samsung,Smartwatch,2022,B,26271,11000.0,10842,91.2,Sold
+ITEM-010,Apple Watch S8,Apple,Smartphone,2021,A,7568,3200.0,3287,90.3,Sold
+ITEM-011,GeForce RTX 3060,Nvidia,GPU/PC Parts,2024,B,17666,9900.0,9478,92.1,Sold
+ITEM-012,Galaxy S22,Samsung,Smartphone,2024,A,16837,11400.0,11200,96.4,Available
+ITEM-013,GeForce RTX 3060,Nvidia,GPU/PC Parts,2023,A,18773,11200.0,11590,96.3,Sold
+ITEM-014,GeForce RTX 4080,Nvidia,GPU/PC Parts,2023,A,28419,16900.0,16237,88.4,Available
+ITEM-015,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2024,C,45342,18100.0,18288,94.2,Sold
+ITEM-016,Galaxy Watch 5,Samsung,Smartwatch,2023,B,27299,13400.0,13975,97.3,Available
+ITEM-017,BlackWidow V4,Razer,Gaming Gear,2024,B,47941,26800.0,26905,97.3,Available
+ITEM-018,iPhone 13,Apple,Smartphone,2023,B,32251,15800.0,15567,91.5,Sold
+ITEM-019,GeForce RTX 3070,Nvidia,GPU/PC Parts,2021,B,18545,6500.0,6394,98.8,Sold
+ITEM-020,iPhone 13,Apple,Smartphone,2022,C,57733,17300.0,17639,96.2,Sold
+ITEM-021,PlayStation 5,Sony,Smartphone,2022,B,51645,21700.0,20686,92.0,Available
+ITEM-022,MacBook Pro M2,Apple,Laptop,2022,C,26919,8100.0,8175,88.9,Sold
+ITEM-023,Xperia 1 IV,Sony,Smartphone,2024,B,45545,25500.0,25840,94.2,Sold
+ITEM-024,MacBook Pro M2,Apple,Smartphone,2023,A,20708,12300.0,12740,91.7,Sold
+ITEM-025,Predator Helios 300,Acer,Laptop,2023,A,6734,4000.0,3869,95.9,Sold
+ITEM-026,Legion 5 Pro,Lenovo,Laptop,2023,A,44384,26400.0,25631,94.2,Available
+ITEM-027,BlackWidow V4,Razer,Gaming Gear,2024,B,16835,9400.0,9175,99.5,Negotiating
+ITEM-028,MacBook Air M1,Apple,Smartwatch,2023,A,57322,34100.0,34783,97.7,Available
+ITEM-029,PlayStation 5,Sony,Smartphone,2024,B,58351,32700.0,33048,88.1,Sold
+ITEM-030,GeForce RTX 3060,Nvidia,GPU/PC Parts,2022,A,58585,29900.0,29856,93.2,Negotiating
+ITEM-031,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2021,B,26295,9200.0,9426,95.5,Available
+ITEM-032,MacBook Pro M2,Apple,Smartphone,2023,A,24830,14800.0,14430,94.8,Negotiating
+ITEM-033,Radeon RX 7900 XTX,AMD,GPU/PC Parts,2023,B,53404,26200.0,26206,94.6,Sold
+ITEM-034,Galaxy S22,Samsung,Smartwatch,2024,A,42410,28800.0,29573,88.5,Negotiating
+ITEM-035,Galaxy S22,Samsung,Smartwatch,2022,A,38828,19800.0,20648,92.9,Negotiating
+ITEM-036,Radeon RX 6700 XT,AMD,GPU/PC Parts,2024,A,55132,37500.0,36340,91.1,Sold
+ITEM-037,iPhone 14 Pro,Apple,Laptop,2023,C,43210,15100.0,15205,89.1,Available
+ITEM-038,Predator Helios 300,Acer,Laptop,2022,C,5784,1700.0,1759,89.6,Available
+ITEM-039,Galaxy Watch 5,Samsung,Smartwatch,2022,C,34592,10400.0,10515,88.9,Sold
+ITEM-040,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2021,A,45941,19500.0,20076,98.2,Sold
+ITEM-041,BlackWidow V4,Razer,Gaming Gear,2024,B,38621,21600.0,21228,89.8,Negotiating
+ITEM-042,TUF Gaming F15,Asus,Laptop,2021,A,58006,24700.0,24354,89.5,Sold
+ITEM-043,Galaxy S22,Samsung,Smartwatch,2023,A,5876,3500.0,3393,92.7,Available
+ITEM-044,DeathAdder V3,Razer,Gaming Gear,2022,B,23077,9700.0,9254,92.6,Sold
+ITEM-045,Nitro 5,Acer,Laptop,2021,A,10949,4700.0,4857,96.0,Sold
+ITEM-046,ROG Zephyrus G14,Asus,Laptop,2023,A,12805,7600.0,7291,90.1,Negotiating
+ITEM-047,Apple Watch S8,Apple,Smartphone,2022,B,13130,5500.0,5361,92.1,Available
+ITEM-048,MacBook Pro M2,Apple,Smartphone,2021,A,56293,23900.0,24749,96.1,Sold
+ITEM-049,TUF Gaming F15,Asus,Laptop,2021,B,42220,14800.0,14649,95.1,Available
+ITEM-050,Legion 5 Pro,Lenovo,Laptop,2022,B,40257,16900.0,16901,94.2,Available
+ITEM-051,MacBook Pro M2,Apple,Laptop,2024,B,5851,3300.0,3324,92.5,Available
+ITEM-052,MacBook Air M1,Apple,Smartphone,2023,C,45770,16000.0,16512,95.5,Sold
+ITEM-053,MacBook Pro M2,Apple,Smartwatch,2023,A,36996,22000.0,21107,95.9,Sold
+ITEM-054,Galaxy S23 Ultra,Samsung,Smartwatch,2022,A,46576,23800.0,23790,96.0,Sold
+ITEM-055,GeForce RTX 3060,Nvidia,GPU/PC Parts,2021,C,49425,12400.0,12305,94.5,Available
+ITEM-056,Radeon RX 7900 XTX,AMD,GPU/PC Parts,2022,A,39911,20400.0,20075,98.7,Available
+ITEM-057,PlayStation 5,Sony,Smartphone,2023,B,26352,12900.0,12742,94.1,Sold
+ITEM-058,Galaxy S22,Samsung,Smartphone,2023,A,18923,11300.0,10747,98.4,Sold
+ITEM-059,DeathAdder V3,Razer,Gaming Gear,2024,B,10486,5900.0,5654,89.1,Available
+ITEM-060,G Pro X Superlight,Logitech,Gaming Gear,2024,C,6167,2500.0,2572,89.0,Sold
+ITEM-061,MacBook Air M1,Apple,Laptop,2023,B,29394,14400.0,13848,89.6,Available
+ITEM-062,G Pro X Superlight,Logitech,Gaming Gear,2022,A,51732,26400.0,25667,92.6,Available
+ITEM-063,Apple Watch S8,Apple,Laptop,2021,A,33295,14200.0,14021,92.3,Available
+ITEM-064,MacBook Pro M2,Apple,Smartphone,2024,A,24870,16900.0,16869,92.3,Available
+ITEM-065,ROG Zephyrus G14,Asus,Laptop,2023,B,25652,12600.0,11984,93.4,Sold
+ITEM-066,DeathAdder V3,Razer,Gaming Gear,2023,B,57224,28000.0,28506,90.7,Sold
+ITEM-067,G Pro X Superlight,Logitech,Gaming Gear,2024,B,51196,28700.0,30029,88.1,Negotiating
+ITEM-068,Apple Watch S8,Apple,Smartwatch,2024,B,16003,9000.0,8616,94.4,Negotiating
+ITEM-069,Predator Helios 300,Acer,Laptop,2021,B,57638,20200.0,21201,96.0,Sold
+ITEM-070,Xperia 1 IV,Sony,Smartphone,2022,C,26447,7900.0,7816,89.2,Sold
+ITEM-071,ThinkPad X1 Carbon,Lenovo,Laptop,2022,A,45251,23100.0,23293,88.9,Negotiating
+ITEM-072,Radeon RX 6700 XT,AMD,GPU/PC Parts,2021,A,40547,17200.0,16806,89.5,Sold
+ITEM-073,Nitro 5,Acer,Laptop,2021,B,5009,1800.0,1877,98.0,Sold
+ITEM-074,Galaxy S22,Samsung,Smartphone,2022,C,52280,15700.0,15506,96.6,Sold
+ITEM-075,GeForce RTX 3060,Nvidia,GPU/PC Parts,2021,A,15344,6500.0,6444,91.1,Sold
+ITEM-076,G Pro X Superlight,Logitech,Gaming Gear,2023,B,20106,9900.0,9954,96.8,Negotiating
+ITEM-077,Predator Helios 300,Acer,Laptop,2021,B,43765,15300.0,14919,91.2,Sold
+ITEM-078,iPhone 14 Pro,Apple,Smartphone,2024,A,19489,13300.0,13297,93.5,Available
+ITEM-079,Legion 5 Pro,Lenovo,Laptop,2022,C,29285,8800.0,9056,94.8,Sold
+ITEM-080,iPhone 14 Pro,Apple,Smartwatch,2023,A,20781,12400.0,12545,99.3,Available
+ITEM-081,ROG Zephyrus G14,Asus,Laptop,2023,A,15209,9000.0,8863,93.9,Available
+ITEM-082,DeathAdder V3,Razer,Gaming Gear,2022,C,56332,16900.0,17401,93.3,Available
+ITEM-083,iPhone 14 Pro,Apple,Smartphone,2022,B,9300,3900.0,3786,94.7,Sold
+ITEM-084,PlayStation 5,Sony,Smartphone,2024,A,16637,11300.0,11523,90.1,Available
+ITEM-085,Xperia 1 IV,Sony,Smartphone,2023,B,54823,26900.0,26018,90.2,Sold
+ITEM-086,Galaxy S23 Ultra,Samsung,Smartwatch,2021,A,44749,19000.0,18279,93.3,Sold
+ITEM-087,iPhone 14 Pro,Apple,Laptop,2021,A,28321,12000.0,12359,95.2,Sold
+ITEM-088,GeForce RTX 3060,Nvidia,GPU/PC Parts,2021,A,18568,7900.0,7571,94.9,Negotiating
+ITEM-089,Legion 5 Pro,Lenovo,Laptop,2022,B,21748,9100.0,8701,89.7,Sold
+ITEM-090,GeForce RTX 4080,Nvidia,GPU/PC Parts,2022,B,6531,2700.0,2593,93.1,Sold
+ITEM-091,PlayStation 5,Sony,Smartphone,2024,A,56128,38200.0,39501,89.0,Sold
+ITEM-092,Apple Watch S8,Apple,Smartphone,2024,B,12561,7000.0,7202,93.7,Sold
+ITEM-093,Nitro 5,Acer,Laptop,2024,B,11738,6600.0,6519,91.9,Available
+ITEM-094,Nitro 5,Acer,Laptop,2023,C,8812,3100.0,3234,88.1,Sold
+ITEM-095,DeathAdder V3,Razer,Gaming Gear,2022,A,18918,9600.0,9173,97.7,Sold
+ITEM-096,Galaxy Watch 5,Samsung,Smartwatch,2022,A,19043,9700.0,10104,88.1,Negotiating
+ITEM-097,Radeon RX 6700 XT,AMD,GPU/PC Parts,2022,B,18703,7900.0,7881,97.6,Sold
+ITEM-098,TUF Gaming F15,Asus,Laptop,2023,A,50587,30100.0,29324,89.3,Available
+ITEM-099,Galaxy Watch 5,Samsung,Smartwatch,2023,B,56178,27500.0,27758,92.2,Sold
+ITEM-100,iPhone 14 Pro,Apple,Smartwatch,2024,A,10287,7000.0,7216,90.9,Available
+ITEM-101,MacBook Air M1,Apple,Smartphone,2023,B,31614,15500.0,15956,89.2,Available
+ITEM-102,BlackWidow V4,Razer,Gaming Gear,2022,C,41298,12400.0,12943,90.1,Sold
+ITEM-103,DeathAdder V3,Razer,Gaming Gear,2024,C,35523,14200.0,13722,89.9,Available
+ITEM-104,Radeon RX 7900 XTX,AMD,GPU/PC Parts,2022,A,19060,9700.0,9785,95.9,Sold
+ITEM-105,GeForce RTX 3070,Nvidia,GPU/PC Parts,2021,B,23574,8300.0,8364,92.1,Sold
+ITEM-106,ROG Zephyrus G14,Asus,Laptop,2024,A,16302,11100.0,10674,98.8,Available
+ITEM-107,ThinkPad X1 Carbon,Lenovo,Laptop,2023,C,10408,3600.0,3612,98.3,Available
+ITEM-108,Apple Watch S8,Apple,Smartphone,2021,B,7336,2600.0,2478,94.6,Available
+ITEM-109,Radeon RX 6700 XT,AMD,GPU/PC Parts,2022,C,28710,8600.0,8495,93.3,Available
+ITEM-110,Galaxy S22,Samsung,Smartwatch,2021,A,40659,17300.0,17770,88.1,Available
+ITEM-111,BlackWidow V4,Razer,Gaming Gear,2023,B,10779,5300.0,5131,98.4,Available
+ITEM-112,ROG Zephyrus G14,Asus,Laptop,2024,C,12783,5100.0,5103,95.0,Sold
+ITEM-113,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2024,B,51403,28800.0,29635,88.3,Available
+ITEM-114,Xperia 1 IV,Sony,Smartphone,2021,B,44964,15700.0,15078,97.7,Negotiating
+ITEM-115,Galaxy S22,Samsung,Smartphone,2021,A,52523,22300.0,21462,98.6,Available
+ITEM-116,Radeon RX 6700 XT,AMD,GPU/PC Parts,2021,A,14524,6200.0,6097,97.2,Sold
+ITEM-117,PlayStation 5,Sony,Smartphone,2024,B,48082,26900.0,28037,93.4,Sold
+ITEM-118,GeForce RTX 4080,Nvidia,GPU/PC Parts,2023,B,18490,9100.0,8870,94.6,Sold
+ITEM-119,Galaxy S22,Samsung,Smartwatch,2021,B,9757,3400.0,3304,90.4,Sold
+ITEM-120,iPhone 13,Apple,Smartphone,2024,B,36195,20300.0,20371,90.1,Sold
+ITEM-121,Galaxy Watch 5,Samsung,Smartwatch,2023,A,32965,19600.0,19022,90.2,Sold
+ITEM-122,Radeon RX 6700 XT,AMD,GPU/PC Parts,2022,B,33865,14200.0,14248,93.5,Sold
+ITEM-123,GeForce RTX 3060,Nvidia,GPU/PC Parts,2024,C,45806,18300.0,18763,91.1,Available
+ITEM-124,Legion 5 Pro,Lenovo,Laptop,2023,C,31399,11000.0,11237,95.6,Sold
+ITEM-125,Radeon RX 6700 XT,AMD,GPU/PC Parts,2023,B,13519,6600.0,6338,97.2,Sold
+ITEM-126,Xperia 1 IV,Sony,Smartphone,2022,C,26591,8000.0,8177,97.8,Available
+ITEM-127,DeathAdder V3,Razer,Gaming Gear,2022,A,52838,26900.0,26426,89.0,Available
+ITEM-128,PlayStation 5,Sony,Smartphone,2023,A,46874,27900.0,28131,92.8,Available
+ITEM-129,Galaxy Watch 5,Samsung,Smartwatch,2022,C,34378,10300.0,10393,91.1,Available
+ITEM-130,Galaxy S22,Samsung,Smartphone,2024,A,48861,33200.0,34128,89.3,Available
+ITEM-131,Radeon RX 6700 XT,AMD,GPU/PC Parts,2024,A,33529,22800.0,21711,91.1,Sold
+ITEM-132,iPhone 13,Apple,Smartwatch,2022,B,56693,23800.0,24952,94.0,Sold
+ITEM-133,iPhone 14 Pro,Apple,Smartwatch,2024,A,43243,29400.0,29394,88.8,Sold
+ITEM-134,Legion 5 Pro,Lenovo,Laptop,2021,A,56226,23900.0,24856,98.0,Available
+ITEM-135,G Pro X Superlight,Logitech,Gaming Gear,2021,A,16664,7100.0,7042,92.4,Sold
+ITEM-136,ThinkPad X1 Carbon,Lenovo,Laptop,2023,A,26172,15600.0,15760,90.8,Sold
+ITEM-137,Radeon RX 7900 XTX,AMD,GPU/PC Parts,2021,B,36463,12800.0,12884,93.5,Available
+ITEM-138,Galaxy S22,Samsung,Smartwatch,2022,A,53275,27200.0,26280,97.7,Available
+ITEM-139,GeForce RTX 4080,Nvidia,GPU/PC Parts,2022,B,45385,19100.0,18348,88.9,Available
+ITEM-140,MacBook Air M1,Apple,Smartphone,2024,B,18350,10300.0,9863,88.9,Sold
+ITEM-141,Radeon RX 7900 XTX,AMD,GPU/PC Parts,2022,A,31212,15900.0,15250,98.5,Sold
+ITEM-142,iPhone 13,Apple,Laptop,2023,A,49623,29500.0,30600,96.4,Available
+ITEM-143,Galaxy S23 Ultra,Samsung,Smartwatch,2024,A,59539,40500.0,39370,99.4,Negotiating
+ITEM-144,Legion 5 Pro,Lenovo,Laptop,2021,A,24541,10400.0,10832,88.4,Available
+ITEM-145,Xperia 1 IV,Sony,Smartphone,2024,C,34398,13800.0,14207,96.6,Sold
+ITEM-146,Radeon RX 6700 XT,AMD,GPU/PC Parts,2022,B,29077,12200.0,12317,90.6,Sold
+ITEM-147,Predator Helios 300,Acer,Laptop,2023,A,25662,15300.0,15153,94.6,Available
+ITEM-148,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2021,B,53288,18700.0,19421,95.1,Sold
+ITEM-149,Radeon RX 7900 XTX,AMD,GPU/PC Parts,2022,A,14996,7600.0,7621,98.8,Available
+ITEM-150,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2021,B,13436,4700.0,4690,94.7,Sold
+ITEM-151,Galaxy S23 Ultra,Samsung,Smartphone,2021,A,58587,24900.0,25491,90.7,Sold
+ITEM-152,ThinkPad X1 Carbon,Lenovo,Laptop,2022,B,30280,12700.0,13221,88.5,Sold
+ITEM-153,Xperia 1 IV,Sony,Smartphone,2021,B,46898,16400.0,16545,99.3,Available
+ITEM-154,Radeon RX 6700 XT,AMD,GPU/PC Parts,2022,A,19899,10100.0,9660,92.6,Available
+ITEM-155,Apple Watch S8,Apple,Smartwatch,2022,A,54976,28000.0,27217,90.1,Available
+ITEM-156,iPhone 13,Apple,Smartwatch,2021,C,23297,5800.0,5814,91.0,Sold
+ITEM-157,ROG Zephyrus G14,Asus,Laptop,2024,C,12906,5200.0,5056,90.6,Sold
+ITEM-158,Galaxy S22,Samsung,Smartphone,2022,B,51007,21400.0,20898,89.5,Available
+ITEM-159,Galaxy S23 Ultra,Samsung,Smartphone,2021,A,47520,20200.0,20302,89.0,Sold
+ITEM-160,GeForce RTX 3070,Nvidia,GPU/PC Parts,2022,A,14903,7600.0,7739,88.9,Available
+ITEM-161,Galaxy S23 Ultra,Samsung,Smartwatch,2021,C,6591,1600.0,1625,94.3,Available
+ITEM-162,Galaxy Watch 5,Samsung,Smartphone,2024,B,52456,29400.0,28392,89.8,Sold
+ITEM-163,Apple Watch S8,Apple,Smartwatch,2022,A,8738,4500.0,4613,89.8,Available
+ITEM-164,MacBook Air M1,Apple,Laptop,2023,C,45329,15900.0,16408,90.6,Negotiating
+ITEM-165,ThinkPad X1 Carbon,Lenovo,Laptop,2022,B,31123,13100.0,12453,91.3,Available
+ITEM-166,iPhone 13,Apple,Smartphone,2024,A,17987,12200.0,11601,97.4,Sold
+ITEM-167,Radeon RX 6700 XT,AMD,GPU/PC Parts,2022,B,18281,7700.0,7578,95.3,Negotiating
+ITEM-168,Galaxy S23 Ultra,Samsung,Smartwatch,2024,A,55192,37500.0,38516,96.1,Sold
+ITEM-169,Legion 5 Pro,Lenovo,Laptop,2022,C,42567,12800.0,13025,93.1,Available
+ITEM-170,G Pro Mechanical Keyboard,Logitech,Gaming Gear,2023,A,49064,29200.0,28684,93.6,Available
+ITEM-171,Nitro 5,Acer,Laptop,2022,A,41124,21000.0,21933,89.2,Available
+ITEM-172,MacBook Air M1,Apple,Smartwatch,2024,C,51766,20700.0,21073,95.5,Sold
+ITEM-173,Galaxy S22,Samsung,Smartphone,2021,C,33602,8400.0,8790,96.7,Sold
+ITEM-174,GeForce RTX 3070,Nvidia,GPU/PC Parts,2024,B,16425,9200.0,8936,88.4,Available
+ITEM-175,DeathAdder V3,Razer,Gaming Gear,2024,B,39375,22000.0,21250,90.3,Sold
+ITEM-176,Radeon RX 7900 XTX,AMD,GPU/PC Parts,2024,A,22343,15200.0,14887,98.5,Negotiating
+ITEM-177,DeathAdder V3,Razer,Gaming Gear,2021,A,16536,7000.0,7075,90.8,Available
+ITEM-178,Xperia 1 IV,Sony,Smartphone,2022,A,40201,20500.0,21109,91.6,Sold
+ITEM-179,Galaxy S23 Ultra,Samsung,Smartwatch,2024,A,46125,31400.0,30745,96.0,Available
